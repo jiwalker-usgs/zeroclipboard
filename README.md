@@ -1,4 +1,7 @@
-zeroclipboard WebJar
+ZeroClipboard
+=============
+
+WebJar for ZeroClipboard
 
 More info: http://webjars.org
 
